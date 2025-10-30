@@ -4,12 +4,11 @@
 To build a complete weekly dashboard that gives leaders and teams immediate, real-time, clear data on **credit card performance**. The dashboard's purpose is to allow stakeholders to easily track trends and analyze operations to ensure effective management.
 
 ---
-
 ## 🛠️ Technology Stack & Source
 * **Visualization & Data Modeling:** Power BI Desktop
 * **Analysis & Measures:** DAX (Data Analysis Expressions) 
 * **Data Source:** CSV files imported into an **SQL Database**.
-
+* **Note:** This project was completed as part of a learning tutorial.
 
 ---
 
@@ -33,14 +32,34 @@ To build a complete weekly dashboard that gives leaders and teams immediate, rea
 * Customer count increased by **0.28%**, showing the number of cardholders is still growing steadily.
 
 ### II. Year-to-Date (YTD) Performance Highlights
-* **Gender Contribution:** Male customers contribute more in revenue (\$31M), compared to female customers (\$26M).
+* **Gender Contribution:** Male customers contribute more in revenue ($31M), compared to female customers ($26M).
 * **Card Popularity:** Blue & Silver credit cards contribute to **93% of all transactions**.
 * **Geographic Focus:** TX, NY, & CA are contributing **68% of the total business**.
 
 ---
 
+## 🖼️ Dashboard Snapshots
+Here are the two main pages of the final Power BI dashboard:
+
+## I. Credit Card Transaction Report
+
+This dashboard page provides core financial metrics, transaction summaries, and revenue breakdown by card category and expense type.
+
+![Transaction Dashboard Snapshot](https://raw.githubusercontent.com/Sahabaz-Khan/Credit_Card_Performance_Dashboard/refs/heads/main/Image/Dashboard_Transaction_Report.png)
+
+
+## II. Credit Card Customer Report
+
+This dashboard page focuses on customer segmentation, showing revenue trends over time and a breakdown by demographic data such as Age Group, Salary Group, and Customer Job.
+
+![Customer Dashboard Snapshot](https://raw.githubusercontent.com/Sahabaz-Khan/Credit_Card_Performance_Dashboard/refs/heads/main/Image/Dashboard_Customer_Report.png)
+---
+
+
 ## 📁 Repository Structure
 The project is organized into the following folders for clarity:
+
 * **`PowerBI-Project-File/`**: Contains the working Power BI Desktop file (`.pbix`).
 * **`Data/`**: Contains the source data files used for the analysis.
-* **`Documentation/`**: Contains the final PDF, PPT reports and supporting files.
+* **`Documentation/`**: Contains the final PDF, PPT reports, SQL query files, and supporting documentation.
+* **`Images/`**: Contains all dashboard snapshot images used in the `README.md` and `VISUAL_REPORT.md` files.
