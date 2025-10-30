@@ -17,6 +17,6 @@ This dashboard page provides core financial metrics, transaction summaries, and 
 
 This dashboard page focuses on customer segmentation, showing revenue trends over time and a breakdown by demographic data such as Age Group, Salary Group, and Customer Job.
 
-![Customer Dashboard Snapshot](https://raw.githubusercontent.com/Sahabaz-Khan/Credit_Card_Performance_Dashboard/main/Image/Dashboard_Customer_Report.png)
+![Customer Dashboard Snapshot](https://raw.githubusercontent.com/Sahabaz-Khan/Credit_Card_Performance_Dashboard/refs/heads/main/Image/Dashboard_Customer_Report.png)
 
 
