@@ -61,5 +61,6 @@ The project is organized into the following folders for clarity:
 * **`PowerBI-Project-File/`**: Contains the working Power BI Desktop file (`.pbix`).
 * **`Data/`**: Contains the source data files used for the analysis.
 * **`Documentation/`**: Contains the final PDF, PPT reports, SQL query files, and supporting documentation.
-* **`Images/`**: Contains all dashboard snapshot images used in the `README.md` and `VISUAL_REPORT.md` files.
+* **`Image/`**: Contains all dashboard snapshot images used in the `README.md` and `VISUAL_REPORT.md` files.
+
 
