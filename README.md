@@ -8,7 +8,6 @@ To build a complete weekly dashboard that gives leaders and teams immediate, rea
 * **Visualization & Data Modeling:** Power BI Desktop
 * **Analysis & Measures:** DAX (Data Analysis Expressions) 
 * **Data Source:** CSV files imported into an **SQL Database**.
-* **Note:** This project was completed as part of a learning tutorial.
 
 ---
 
@@ -63,3 +62,4 @@ The project is organized into the following folders for clarity:
 * **`Data/`**: Contains the source data files used for the analysis.
 * **`Documentation/`**: Contains the final PDF, PPT reports, SQL query files, and supporting documentation.
 * **`Images/`**: Contains all dashboard snapshot images used in the `README.md` and `VISUAL_REPORT.md` files.
+
